@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UECArden2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UECArden2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UECArden2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UECArden2025">
+      <UniqueIdentifier>{AE1B27BB-D557-3BB6-9BD3-2C49B2B241E1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActorClase1.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActorClase1.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActorTest.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActorTest.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\UECArden2025\UECArden2025.Build.cs">
+      <Filter>Source\UECArden2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UECArden2025\UECArden2025.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\UECArden2025.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
