@@ -33,6 +33,12 @@
     <Filter Include="Source\UECArden2025">
       <UniqueIdentifier>{AE1B27BB-D557-3BB6-9BD3-2C49B2B241E1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActor3.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyActor3.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UECArden2025\MyActorClase1.cpp">
       <Filter>Source\UECArden2025</Filter>
     </ClCompile>
